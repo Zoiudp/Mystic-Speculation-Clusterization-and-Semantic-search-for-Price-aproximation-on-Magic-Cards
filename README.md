@@ -1,8 +1,4 @@
-# TCC
- Magic The IA price provider
-
-
- **Título: Integração de Modelos em uma IA Multi-Modelo para Previsão de Preços de Cartas de Magic: Classificação de Texto e Clusterização em Ação**
+**Título: Integração de Modelos em uma IA Multi-Modelo para Previsão de Preços de Cartas de Magic: Classificação de Texto e Clusterização em Ação**
 
 No cenário dinâmico do mercado de cartas de Magic: The Gathering, a previsão de preços é uma tarefa desafiadora devido à influência de diversos fatores, como a popularidade das cartas, o contexto do metajogo e eventos no mundo real. Nesse contexto, a utilização de uma inteligência artificial (IA) multi-modelo surge como uma abordagem inovadora e eficiente.
 
